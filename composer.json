@@ -1,0 +1,20 @@
+{
+    "name": "drgham/dbstats",
+    "description": "A Laravel package to provide MySQL table statistics, diagrams, and performance measurement.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "YourVendor\\DBStats\\": "src/"
+      }
+    },
+    "require": {
+      "php": "^8.0",                          
+      "illuminate/support": "^8.0|^9.0",      
+      "maatwebsite/excel": "^3.1",            
+      "chartjs/chartjs": "^3.7"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
+  
