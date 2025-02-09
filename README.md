@@ -42,9 +42,9 @@ Then, run:
 composer require drgham/dbstats
 ```
 
-#### Option 2: Use Packagist (after publishing)
+#### Option 2: Use Packagist
 
-If the package is published on **Packagist**, you can simply install it via:
+You can simply install it via:
 
 ```bash
 composer require drgham/dbstats
